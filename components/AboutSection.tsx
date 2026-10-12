@@ -24,7 +24,7 @@ export default function AboutSection() {
           >
             <div className="relative rounded-[2.5rem] overflow-hidden aspect-[4/5] w-full max-w-lg mx-auto lg:mx-0">
               <Image
-                src="/images/dvcc-hero.png"
+                src="/images/dvcc-hero1.png"
                 alt="DVCCL — Building Sri Lanka's Future"
                 fill
                 className="object-cover object-center"

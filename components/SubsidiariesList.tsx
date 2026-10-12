@@ -6,49 +6,49 @@ import { ArrowUpRight } from 'lucide-react';
 
 const subsidiaries = [
   {
-    slug: 'agriculture-plantation',
+    slug: 'smart-farmer',
     number: '01',
-    name: 'Agriculture & Plantation',
+    name: 'Smart Farmer',
     summary:
-      'Sustainable farming solutions powered by modern agricultural technology and innovation. We integrate smart farming practices, precision agriculture, and eco-friendly techniques to drive productivity and food security across Sri Lanka.',
+      'Smart agriculture solutions designed to help farmers make better decisions, improve productivity, manage resources efficiently, and adopt sustainable farming practices through modern technology and innovation.',
     image: '/subsidiaries/agri_plantation.jpg',
     tag: 'Smart Farming',
   },
   {
-    slug: 'engineering-construction',
+    slug: 'durian',
     number: '02',
-    name: 'Engineering & Construction',
+    name: 'Durian',
     summary:
-      'High-quality civil, structural, and infrastructure development across Sri Lanka. From commercial towers to critical infrastructure, we deliver engineering excellence grounded in safety, sustainability, and innovation.',
+      'Modern durian cultivation focused on premium quality, sustainable farming, and innovative agricultural practices to develop a successful and responsible agricultural business in Sri Lanka.',
     image: '/subsidiaries/engineering_construction.jpg',
-    tag: 'Infrastructure',
+    tag: 'Durian Cultivation',
   },
   {
-    slug: 'education-training',
+    slug: 'gems',
     number: '03',
-    name: 'Education & Training',
+    name: 'Gems',
     summary:
-      'Professional education programs focused on skills development and future readiness. We empower individuals and organizations with knowledge-driven programs that align with the demands of a rapidly evolving global economy.',
+      'Premium gemstone sourcing and development focused on Sri Lanka’s rich natural resources. We promote responsible practices, quality standards, and value-driven opportunities across the gemstone industry.',
     image: '/subsidiaries/education_training.jpg',
-    tag: 'Human Capital',
+    tag: 'Gemstone Investment',
   },
   {
-    slug: 'dvccl-lime',
+    slug: 'quartz',
     number: '04',
-    name: 'DVCCL Lime',
+    name: 'Quartz',
     summary:
-      'Natural high-calcium lime products for industrial and agricultural applications. Our lime operations combine rigorous quality control with sustainable extraction, supplying reliable, premium-grade products to local and international markets.',
+      'High-quality quartz sourcing and development focused on Sri Lanka’s natural mineral resources. We combine responsible extraction, quality standards, and sustainable practices to create value for local and international markets.',
     image: '/subsidiaries/dvccl_lime.jpg',
-    tag: 'Industrial',
+    tag: 'MINERAL RESOURCES',
   },
   {
-    slug: 'dcci',
+    slug: 'tourism',
     number: '05',
-    name: 'DCCI',
+    name: 'Tourism',
     summary:
-      "From Our Waters to the World — sustainable source seafood processed with international quality standards for global markets. We bring the finest of Sri Lanka's ocean harvest to discerning customers around the world.",
+      "Creating memorable travel experiences by connecting visitors with Sri Lanka’s diverse destinations, culture, nature, and hospitality. We focus on sustainable tourism solutions that promote local communities and showcase Sri Lanka to the world.",
     image: '/subsidiaries/dcci_seafood.jpg',
-    tag: 'Global Exports',
+    tag: 'TRAVEL & TOURISM',
   },
   {
     slug: 'it-solutions',

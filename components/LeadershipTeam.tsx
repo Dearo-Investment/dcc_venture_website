@@ -7,6 +7,7 @@ import { X, ChevronRight, GraduationCap, Briefcase, Award } from 'lucide-react';
 
 const directors = [
   {
+    
     name: 'Mr. K.M.M.Jabir',
     role: ['Chairman', 'Independent / Non - Executive Director'],
     image: '/coparate/jabeer_new.jpg',
@@ -191,7 +192,7 @@ export default function LeadershipTeam() {
     } else {
       document.body.style.overflow = '';
     }
-    return () => {
+    return () => {  
       document.body.style.overflow = '';
     };
   }, [selectedProfile]);
@@ -207,10 +208,16 @@ export default function LeadershipTeam() {
     return <span className="block text-[13px] md:text-sm text-accent-gold font-medium tracking-wide">{role}</span>;
   };
 
+  
+
   return (
     <>
+    {/* LEADERSHIP SECTIONS HIDDEN TEMPORARILY - START */}
+    {false && (
+  <>
+    
       {/* Board of Directors */}
-      <section className="py-24 relative z-10">
+        <section className="py-24 relative z-10"> 
         <div className="container-content">
           <div className="text-center mb-16 md:mb-24">
             <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-white tracking-tight">
@@ -341,6 +348,10 @@ export default function LeadershipTeam() {
         </div>
       </section>
 
+      </>
+    )}
+       {/* LEADERSHIP SECTIONS HIDDEN TEMPORARILY - END */}
+
       {/* Professional Full-Screen Modal */}
       <AnimatePresence>
         {selectedProfile && (
@@ -469,4 +480,8 @@ export default function LeadershipTeam() {
       `}</style>
     </>
   );
+
+  
 }
+
+

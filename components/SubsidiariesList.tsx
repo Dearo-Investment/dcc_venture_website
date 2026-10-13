@@ -20,7 +20,7 @@ const subsidiaries = [
     name: 'Durian',
     summary:
       'Modern durian cultivation focused on premium quality, sustainable farming, and innovative agricultural practices to develop a successful and responsible agricultural business in Sri Lanka.',
-    image: '/subsidiaries/engineering_construction.jpg',
+    image: '/subsidiaries/engineering_construction1.jpg',
     tag: 'Durian Cultivation',
   },
   {
@@ -29,7 +29,7 @@ const subsidiaries = [
     name: 'Gems',
     summary:
       'Premium gemstone sourcing and development focused on Sri Lanka’s rich natural resources. We promote responsible practices, quality standards, and value-driven opportunities across the gemstone industry.',
-    image: '/subsidiaries/education_training.jpg',
+    image: '/subsidiaries/education_training1.jpg',
     tag: 'Gemstone Investment',
   },
   {
@@ -38,7 +38,7 @@ const subsidiaries = [
     name: 'Quartz',
     summary:
       'High-quality quartz sourcing and development focused on Sri Lanka’s natural mineral resources. We combine responsible extraction, quality standards, and sustainable practices to create value for local and international markets.',
-    image: '/subsidiaries/dvccl_lime.jpg',
+    image: '/subsidiaries/dvccl_lime1.jpg',
     tag: 'MINERAL RESOURCES',
   },
   {
@@ -47,7 +47,7 @@ const subsidiaries = [
     name: 'Tourism',
     summary:
       "Creating memorable travel experiences by connecting visitors with Sri Lanka’s diverse destinations, culture, nature, and hospitality. We focus on sustainable tourism solutions that promote local communities and showcase Sri Lanka to the world.",
-    image: '/subsidiaries/dcci_seafood.jpg',
+    image: '/subsidiaries/dcci_seafood1.jpg',
     tag: 'TRAVEL & TOURISM',
   },
   {
